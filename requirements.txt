@@ -1,0 +1,12 @@
+# PPE Verification System Requirements
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Deep Learning
+ultralytics>=8.0.0
+tensorflow>=2.13.0
+
+# Utilities
+numpy>=1.24.0
